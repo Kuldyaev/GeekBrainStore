@@ -1,5 +1,3 @@
-"use strict";
-
 let cart = [];
 let counter = document.body.querySelector('.header-item-icon-img-number');
 let spaunPoint = document.body.querySelector('#spaunPoint');
