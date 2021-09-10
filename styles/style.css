@@ -52,10 +52,13 @@ footer{
 .w160{width: 160px;} 
 
 .pointer{cursor: pointer}
+.redHover:hover {color: #F16D7F}
 
 
-
-
+svg:hover * { 
+    stroke: red; 
+    fill: red;
+}
 
 
 /*---------------header-------------*/
